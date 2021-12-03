@@ -5,7 +5,7 @@ Serialize JavaScript to a superset of JSON that includes regular expressions and
 Serializer:  
 serialize(obj);   
    
-Avilable options:   
+Available options:   
 space   
 isJSON  
 unsafe  
