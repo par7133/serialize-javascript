@@ -8,7 +8,7 @@ serialize(obj);
 Avilable options:   
 space   
 isJSON  
-unsafe
+unsafe  
 ignoreFunction
 
 Deserializer:  
